@@ -1,0 +1,21 @@
+# ignore folder
+packages/
+Firefox/
+Debug/
+Release/
+bin/
+obj/
+
+# Ignore these files
+*~
+*.deps
+.\#*
+*.bak
+*.tlog
+*.cache
+*.pdb
+*.suo
+*.orig
+*.user
+*.trx
+
