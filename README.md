@@ -1,5 +1,5 @@
 # ExcelApiPerformanceTests
-Simple Project to compare the performance of excel calls via MS Interop Late Binding and NetOfficeFw
+Simple Project to compare the performance of excel calls via [MS Interop Late Binding](https://msdn.microsoft.com/library/microsoft.office.interop.excel.aspx) and [NetOfficeFw](https://github.com/NetOfficeFw/NetOffice)
 
 The programm starts two threads. One thead will open an excel document via late binding with Microsoft Interop and in the other will use the NetOffice Library.
 
